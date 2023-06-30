@@ -1,0 +1,15 @@
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\bin\Debug\net6.0\BottleColorSolver.exe
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\bin\Debug\net6.0\BottleColorSolver.deps.json
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\bin\Debug\net6.0\BottleColorSolver.runtimeconfig.json
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\bin\Debug\net6.0\BottleColorSolver.dll
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\bin\Debug\net6.0\BottleColorSolver.pdb
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\obj\Debug\net6.0\BottleColorSolver.csproj.AssemblyReference.cache
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\obj\Debug\net6.0\BottleColorSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\obj\Debug\net6.0\BottleColorSolver.AssemblyInfoInputs.cache
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\obj\Debug\net6.0\BottleColorSolver.AssemblyInfo.cs
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\obj\Debug\net6.0\BottleColorSolver.csproj.CoreCompileInputs.cache
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\obj\Debug\net6.0\BottleColorSolver.dll
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\obj\Debug\net6.0\refint\BottleColorSolver.dll
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\obj\Debug\net6.0\BottleColorSolver.pdb
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\obj\Debug\net6.0\BottleColorSolver.genruntimeconfig.cache
+D:\forfun\personal projects\CorrectBottleColorSolver\BottleColorSolver\BottleColorSolver\obj\Debug\net6.0\ref\BottleColorSolver.dll
